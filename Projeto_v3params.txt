@@ -1,0 +1,7 @@
+{
+	"server":"USER-PC\\ESTUDO",
+	"database":"ale2",
+	"cmds":{
+		"q1":"s"
+	}
+}
