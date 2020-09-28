@@ -1,2 +1,2 @@
-# Projeto_Hugo
-Projeto super legalzinho focado em abrir uma conexão com o banco de dados usando python
+# Lição de casa - Hugo
+Código python que are uma conexão com o banco de dados
