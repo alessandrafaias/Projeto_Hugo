@@ -1,2 +1,2 @@
 # Lição de casa - Hugo
-Código python que are uma conexão com o banco de dados
+Código python que abre uma conexão com o banco de dados
